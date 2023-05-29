@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\FabonacciNo\FabonacciNo\bin\Debug\FabonacciNo.exe.config
+C:\Priyanka\Project task\FabonacciNo\FabonacciNo\bin\Debug\FabonacciNo.exe
+C:\Priyanka\Project task\FabonacciNo\FabonacciNo\bin\Debug\FabonacciNo.pdb
+C:\Priyanka\Project task\FabonacciNo\FabonacciNo\obj\Debug\FabonacciNo.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\FabonacciNo\FabonacciNo\obj\Debug\FabonacciNo.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\FabonacciNo\FabonacciNo\obj\Debug\FabonacciNo.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\FabonacciNo\FabonacciNo\obj\Debug\FabonacciNo.exe
+C:\Priyanka\Project task\FabonacciNo\FabonacciNo\obj\Debug\FabonacciNo.pdb

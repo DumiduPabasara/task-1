@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Priyanka\Project task\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Priyanka\Project task\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Priyanka\Project task\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Priyanka\Project task\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb

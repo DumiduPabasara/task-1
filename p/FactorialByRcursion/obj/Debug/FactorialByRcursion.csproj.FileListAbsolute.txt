@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\FactorialByRcursion\FactorialByRcursion\bin\Debug\FactorialByRcursion.exe.config
+C:\Priyanka\Project task\FactorialByRcursion\FactorialByRcursion\bin\Debug\FactorialByRcursion.exe
+C:\Priyanka\Project task\FactorialByRcursion\FactorialByRcursion\bin\Debug\FactorialByRcursion.pdb
+C:\Priyanka\Project task\FactorialByRcursion\FactorialByRcursion\obj\Debug\FactorialByRcursion.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\FactorialByRcursion\FactorialByRcursion\obj\Debug\FactorialByRcursion.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\FactorialByRcursion\FactorialByRcursion\obj\Debug\FactorialByRcursion.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\FactorialByRcursion\FactorialByRcursion\obj\Debug\FactorialByRcursion.exe
+C:\Priyanka\Project task\FactorialByRcursion\FactorialByRcursion\obj\Debug\FactorialByRcursion.pdb
