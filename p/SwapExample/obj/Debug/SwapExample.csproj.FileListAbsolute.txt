@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\SwapExample\SwapExample\bin\Debug\SwapExample.exe.config
+C:\Priyanka\Project task\SwapExample\SwapExample\bin\Debug\SwapExample.exe
+C:\Priyanka\Project task\SwapExample\SwapExample\bin\Debug\SwapExample.pdb
+C:\Priyanka\Project task\SwapExample\SwapExample\obj\Debug\SwapExample.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\SwapExample\SwapExample\obj\Debug\SwapExample.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\SwapExample\SwapExample\obj\Debug\SwapExample.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\SwapExample\SwapExample\obj\Debug\SwapExample.exe
+C:\Priyanka\Project task\SwapExample\SwapExample\obj\Debug\SwapExample.pdb

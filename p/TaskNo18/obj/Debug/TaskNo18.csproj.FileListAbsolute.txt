@@ -1,0 +1,3 @@
+C:\Priyanka\Project task\TaskNo18\TaskNo18\obj\Debug\TaskNo18.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\TaskNo18\TaskNo18\obj\Debug\TaskNo18.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\TaskNo18\TaskNo18\obj\Debug\TaskNo18.csproj.CoreCompileInputs.cache

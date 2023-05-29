@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\Sum1to100\Sum1to100\bin\Debug\Sum1to100.exe.config
+C:\Priyanka\Project task\Sum1to100\Sum1to100\bin\Debug\Sum1to100.exe
+C:\Priyanka\Project task\Sum1to100\Sum1to100\bin\Debug\Sum1to100.pdb
+C:\Priyanka\Project task\Sum1to100\Sum1to100\obj\Debug\Sum1to100.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\Sum1to100\Sum1to100\obj\Debug\Sum1to100.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\Sum1to100\Sum1to100\obj\Debug\Sum1to100.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\Sum1to100\Sum1to100\obj\Debug\Sum1to100.exe
+C:\Priyanka\Project task\Sum1to100\Sum1to100\obj\Debug\Sum1to100.pdb
