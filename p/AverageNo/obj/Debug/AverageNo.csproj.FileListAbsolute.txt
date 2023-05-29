@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\AverageNo\AverageNo\bin\Debug\AverageNo.exe.config
+C:\Priyanka\Project task\AverageNo\AverageNo\bin\Debug\AverageNo.exe
+C:\Priyanka\Project task\AverageNo\AverageNo\bin\Debug\AverageNo.pdb
+C:\Priyanka\Project task\AverageNo\AverageNo\obj\Debug\AverageNo.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\AverageNo\AverageNo\obj\Debug\AverageNo.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\AverageNo\AverageNo\obj\Debug\AverageNo.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\AverageNo\AverageNo\obj\Debug\AverageNo.exe
+C:\Priyanka\Project task\AverageNo\AverageNo\obj\Debug\AverageNo.pdb

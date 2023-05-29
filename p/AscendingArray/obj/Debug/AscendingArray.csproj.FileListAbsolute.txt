@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\AscendingArray\AscendingArray\bin\Debug\AscendingArray.exe.config
+C:\Priyanka\Project task\AscendingArray\AscendingArray\bin\Debug\AscendingArray.exe
+C:\Priyanka\Project task\AscendingArray\AscendingArray\bin\Debug\AscendingArray.pdb
+C:\Priyanka\Project task\AscendingArray\AscendingArray\obj\Debug\AscendingArray.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\AscendingArray\AscendingArray\obj\Debug\AscendingArray.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\AscendingArray\AscendingArray\obj\Debug\AscendingArray.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\AscendingArray\AscendingArray\obj\Debug\AscendingArray.exe
+C:\Priyanka\Project task\AscendingArray\AscendingArray\obj\Debug\AscendingArray.pdb
