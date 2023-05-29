@@ -1,0 +1,11 @@
+C:\Priyanka\Project task\CrudOperation\CrudOperation\bin\Debug\CrudOperation.exe.config
+C:\Priyanka\Project task\CrudOperation\CrudOperation\bin\Debug\CrudOperation.exe
+C:\Priyanka\Project task\CrudOperation\CrudOperation\bin\Debug\CrudOperation.pdb
+C:\Priyanka\Project task\CrudOperation\CrudOperation\bin\Debug\Newtonsoft.Json.dll
+C:\Priyanka\Project task\CrudOperation\CrudOperation\bin\Debug\Newtonsoft.Json.xml
+C:\Priyanka\Project task\CrudOperation\CrudOperation\obj\Debug\CrudOperation.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\CrudOperation\CrudOperation\obj\Debug\CrudOperation.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\CrudOperation\CrudOperation\obj\Debug\CrudOperation.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\CrudOperation\CrudOperation\obj\Debug\CrudOperation.csproj.CopyComplete
+C:\Priyanka\Project task\CrudOperation\CrudOperation\obj\Debug\CrudOperation.exe
+C:\Priyanka\Project task\CrudOperation\CrudOperation\obj\Debug\CrudOperation.pdb
