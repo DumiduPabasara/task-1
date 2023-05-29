@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\FactorialNO\FactorialNO\bin\Debug\FactorialNO.exe.config
+C:\Priyanka\Project task\FactorialNO\FactorialNO\bin\Debug\FactorialNO.exe
+C:\Priyanka\Project task\FactorialNO\FactorialNO\bin\Debug\FactorialNO.pdb
+C:\Priyanka\Project task\FactorialNO\FactorialNO\obj\Debug\FactorialNO.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\FactorialNO\FactorialNO\obj\Debug\FactorialNO.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\FactorialNO\FactorialNO\obj\Debug\FactorialNO.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\FactorialNO\FactorialNO\obj\Debug\FactorialNO.exe
+C:\Priyanka\Project task\FactorialNO\FactorialNO\obj\Debug\FactorialNO.pdb

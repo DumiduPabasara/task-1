@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\GeometricShape\GeometricShape\bin\Debug\GeometricShape.exe.config
+C:\Priyanka\Project task\GeometricShape\GeometricShape\bin\Debug\GeometricShape.exe
+C:\Priyanka\Project task\GeometricShape\GeometricShape\bin\Debug\GeometricShape.pdb
+C:\Priyanka\Project task\GeometricShape\GeometricShape\obj\Debug\GeometricShape.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\GeometricShape\GeometricShape\obj\Debug\GeometricShape.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\GeometricShape\GeometricShape\obj\Debug\GeometricShape.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\GeometricShape\GeometricShape\obj\Debug\GeometricShape.exe
+C:\Priyanka\Project task\GeometricShape\GeometricShape\obj\Debug\GeometricShape.pdb

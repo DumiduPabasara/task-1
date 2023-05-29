@@ -1,0 +1,8 @@
+C:\Priyanka\Project task\LeapYear\LeapYear\bin\Debug\LeapYear.exe.config
+C:\Priyanka\Project task\LeapYear\LeapYear\bin\Debug\LeapYear.exe
+C:\Priyanka\Project task\LeapYear\LeapYear\bin\Debug\LeapYear.pdb
+C:\Priyanka\Project task\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.AssemblyReference.cache
+C:\Priyanka\Project task\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.SuggestedBindingRedirects.cache
+C:\Priyanka\Project task\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+C:\Priyanka\Project task\LeapYear\LeapYear\obj\Debug\LeapYear.exe
+C:\Priyanka\Project task\LeapYear\LeapYear\obj\Debug\LeapYear.pdb
