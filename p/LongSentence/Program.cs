@@ -40,7 +40,26 @@ namespace LongSentence
     }
 
     
-
-   
     }
+
+    //refer this code also alternative way
+/*         static void Main(string[] args)
+    {
+        string sentence = "The quick brown fox jumps over the lazy dog";
+        string[] words = sentence.Split(' ');
+        string longestWord = "";
+        int maxLength = 0;
+
+        foreach (string word in words)
+        {
+            if (word.Length > maxLength)
+            {
+                maxLength = word.Length;
+                longestWord = word;
+            }
+        }
+
+        Console.WriteLine("Longest word: " + longestWord);
+        Console.WriteLine("Length: " + maxLength);
+    } */
 

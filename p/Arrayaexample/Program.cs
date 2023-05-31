@@ -41,9 +41,32 @@ namespace Arrayaexample
             countFreq(arr, n);
         }
     }
-
-    
-
  
     }
+
+    //This code is correct, refer below code for more optimized one, you can use a Dictionary set instead of bool array
+
+/*         static void Main(string[] args)
+    {
+        int[] numbers = { 5, 2, 5, 1, 7, 2, 5 };
+        Dictionary<int, int> frequencyMap = new Dictionary<int, int>();
+
+        foreach (int number in numbers)
+        {
+            if (frequencyMap.ContainsKey(number))
+            {
+                frequencyMap[number]++;
+            }
+            else
+            {
+                frequencyMap[number] = 1;
+            }
+        }
+
+        Console.WriteLine("Element - Frequency");
+        foreach (var kvp in frequencyMap)
+        {
+            Console.WriteLine(kvp.Key + " - " + kvp.Value);
+        }
+    } */
 

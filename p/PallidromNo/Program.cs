@@ -30,3 +30,26 @@ namespace PallidromNo
         }
     }
 }
+
+//refer following code for checking palindrome with string values
+/*     static void Main(string[] args)
+    {
+        string input = "madam";
+        string reversed = "";
+
+        for (int i = input.Length - 1; i >= 0; i--)
+        {
+            reversed += input[i];
+        }
+
+        bool isPalindrome = input.Equals(reversed, StringComparison.OrdinalIgnoreCase);
+
+        if (isPalindrome)
+        {
+            Console.WriteLine("The string is a palindrome.");
+        }
+        else
+        {
+            Console.WriteLine("The string is not a palindrome.");
+        }
+    } */

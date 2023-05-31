@@ -25,12 +25,27 @@ namespace FabonacciNo
                 }
             }
             Console.WriteLine(evenSum);
-
-
-
-
-
                 
         }
     }
 }
+
+//check following for more optimize code
+//int limit = 4000;
+//int sum = 0;
+//int first = 1;
+//int second = 2;
+
+//while (second <= limit)
+//{
+//    if (second % 2 == 0)
+//    {
+//        sum += second;
+//    }
+
+//    int next = first + second;
+//    first = second;
+//    second = next;
+//}
+
+//Console.WriteLine("Sum of even Fibonacci numbers: " + sum);

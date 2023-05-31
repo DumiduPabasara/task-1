@@ -27,3 +27,15 @@ namespace ArraySort
         }
     }
 }
+
+//Code is correct. refer following code for how to find min max using .NET library functions defined in LINQ
+/*     static void Main(string[] args)
+    {
+        int[] numbers = { 5, 2, 9, 1, 7 };
+
+        int smallest = numbers.Min();
+        int largest = numbers.Max();
+
+        Console.WriteLine("Smallest number: " + smallest);
+        Console.WriteLine("Largest number: " + largest);
+    } */
